@@ -1,6 +1,8 @@
 
   # A WebApp for short video making using plain html, css and javascript
 
+  ![Homepage Image](Capture.PNG)
+
 ## Features
 
 ## Technologies Used
