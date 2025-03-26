@@ -1,16 +1,7 @@
 
-  # myShopify Task
-
-  # [Your Web App Name]
-
-[A brief description of your web app. What does it do? What problem does it solve?]
+  # A WebApp for short video making using plain html, css and javascript
 
 ## Features
-
-* [List key features of your web app]
-* [Example: Responsive design]
-* [Example: Interactive elements]
-* [Example: Uses local storage to save data]
 
 ## Technologies Used
 
@@ -56,18 +47,17 @@
 
 ## Usage
 
-[Explain how to use your web app. Include any specific instructions or examples.]
+
 
 ## Contributing
 
-[If you're open to contributions, explain how others can contribute to your project.]
+
 
 ## License
 
-[Specify the license under which your web app is distributed. Example: MIT License]
+
 
 ## Author
 
-[Your Name]
-[Your Email or GitHub Profile Link]
+
   
